@@ -1,7 +1,7 @@
 # Customer-Churn
 This project involves the development of a classical machine learning model for a Telecommunication Company to predict customer churn, facilitating a data-driven retention program.
 
-### Classification Challenge:
+#### Classification Challenge:
 
 In a Telco Company, the latest reviews have shown churn (number of customers leaving the company) asone of the major drivers of costs. The company would like to create a data driven retention program toreplace the current one. Therefore, they would like to contact some potential churners by means of an MLmodel before they leave (they currently contact the clients with the largest tenure). The company capacityis to contact a maximum of 200 clients per month.
 
